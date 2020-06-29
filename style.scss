@@ -1,0 +1,159 @@
+div.container {
+    h1 {
+        color: red;
+    }
+
+    div.head {
+        div.logo {
+            a {}
+        }
+
+        div.headLinks {
+            div.layer1 {
+                ul {
+                    li {
+                        a {}
+                    }
+                }
+
+                div.tel {}
+
+                div.hours {}
+            }
+
+            div.layer2 {
+                ul {
+                    li {
+                        a {}
+                    }
+                }
+            }
+
+            div.layer3 {
+                ul {
+                    li.active {
+                        a {
+                            span {}
+                        }
+                    }
+
+                    li {
+                        a {
+                            span {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    div.hero {
+        div.herotext {
+            span {}
+        }
+
+        div.heroImg {}
+    }
+
+    div.content {
+        div.contentRight {
+            h2 {}
+
+            p {
+                br {}
+
+                a {}
+            }
+
+            ul {
+                li {
+                    a {}
+                }
+            }
+
+            div.cardWrapper {
+                div.cardWrapperTitle {}
+
+                div.cards {
+                    a.card {
+                        div.icon {}
+
+                        h3 {}
+
+                        p {}
+                    }
+                }
+            }
+
+            ul.breadcrumb {
+                li {}
+            }
+        }
+
+        div.contentLeft {
+            h2 {}
+
+            div.links {
+                h3 {}
+
+                ul {
+                    li {
+                        a {}
+                    }
+                }
+
+                div.links2 {}
+            }
+
+            a {}
+
+            div.contact {
+                h3 {}
+
+                a {}
+
+                div.tel {}
+
+                div.hours {}
+            }
+        }
+    }
+
+    div.footer {
+        div.layer1 {
+            h2 {}
+
+            div {
+                div.info {
+                    div.tel {}
+
+                    div.hours {}
+                }
+
+                a {}
+            }
+        }
+
+        div.layer2 {
+            div.wrapper {
+                div {
+                    h4 {}
+
+                    ul {
+                        li {
+                            a {}
+                        }
+                    }
+                }
+            }
+        }
+
+        div.layer3 {
+            div.wrapper {
+                div.visa {}
+
+                div.copyRight {}
+            }
+        }
+    }
+}
